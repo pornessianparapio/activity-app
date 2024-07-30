@@ -1,0 +1,2 @@
+[console_scripts]
+activity_monitor = main:main

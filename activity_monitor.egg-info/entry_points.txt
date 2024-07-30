@@ -1,0 +1,2 @@
+[console_scripts]
+initialize_db = setup:initialize_db
